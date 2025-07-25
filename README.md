@@ -6,3 +6,6 @@ El sistema utiliza una cámara para detectar la posición de un disco rojo flota
 Se realizaron adecuaciones específicas como el puenteo del driver Z para duplicar el movimiento del eje Y en ambos motores laterales, y la inversión del giro de uno de ellos para lograr sincronía. La calibración fina del sistema se efectuó usando el software Universal G-code Sender (UGS).
 
 El resultado es un sistema capaz de responder en tiempo real al movimiento del disco, desplazando un actuador sobre la superficie de juego con precisión y velocidad, imitando el comportamiento de un jugador humano. Esta plataforma constituye una base sólida para el desarrollo de futuras mejoras como estrategias ofensivas, aprendizaje automático y operación completamente autónoma.
+
+Otros lugares de interés: https://github.com/gnea/grbl/releases/tag/v1.1f.20170801, https://winder.github.io/ugs_website/installing/  
+Referencias: José Julio - https://github.com/JJulio
